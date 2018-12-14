@@ -1,0 +1,22 @@
+body {
+	background-image : url("pic.jpg");
+	background-repeat: no-repeat;
+	  background-size: cover;
+	
+}
+
+.buttons  {
+	float: right;
+	margin: 10px;
+	display: inline-block;
+}
+button {
+	 text-decoration: none;
+     color: initial;
+}
+
+.text{
+	position: relative;
+	top: 300px;
+	text-align: center;
+}
